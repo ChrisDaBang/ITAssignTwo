@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
+using ITAssignTwo.Models;
 
 namespace ITAssignTwo.Controllers
 {
@@ -15,9 +16,9 @@ namespace ITAssignTwo.Controllers
 
         public IActionResult About()
         {
-            ViewData["Message"] = "Your application description page.";
+            AboutModel model = new AboutModel();
 
-            return View();
+            return View(model);
         }
 
         public IActionResult Contact()

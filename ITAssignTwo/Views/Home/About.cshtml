@@ -1,7 +1,7 @@
-﻿@{
-    ViewData["Title"] = "About";
-}
-<h2>@ViewData["Title"].</h2>
-<h3>@ViewData["Message"]</h3>
+﻿@model ITAssignTwo.Models.AboutModel
 
-<p>Use this area to provide additional information.</p>
+
+<h2>@Model.Title</h2>
+<h3>@Model.Message</h3>
+
+<p>@Model.AdditionalInfo</p>

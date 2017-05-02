@@ -1,10 +1,21 @@
-c:\users\chris\documents\visual studio 2017\Projects\ITAssignTwo\ITAssignTwo\bin\Debug\netcoreapp1.1\ITAssignTwo.deps.json
-c:\users\chris\documents\visual studio 2017\Projects\ITAssignTwo\ITAssignTwo\bin\Debug\netcoreapp1.1\ITAssignTwo.runtimeconfig.json
-c:\users\chris\documents\visual studio 2017\Projects\ITAssignTwo\ITAssignTwo\bin\Debug\netcoreapp1.1\ITAssignTwo.runtimeconfig.dev.json
-c:\users\chris\documents\visual studio 2017\Projects\ITAssignTwo\ITAssignTwo\bin\Debug\netcoreapp1.1\ITAssignTwo.dll
-c:\users\chris\documents\visual studio 2017\Projects\ITAssignTwo\ITAssignTwo\bin\Debug\netcoreapp1.1\ITAssignTwo.pdb
-c:\users\chris\documents\visual studio 2017\Projects\ITAssignTwo\ITAssignTwo\obj\Debug\netcoreapp1.1\ITAssignTwo.csprojResolveAssemblyReference.cache
-c:\users\chris\documents\visual studio 2017\Projects\ITAssignTwo\ITAssignTwo\obj\Debug\netcoreapp1.1\UserSecretsAssemblyInfo.cs
-c:\users\chris\documents\visual studio 2017\Projects\ITAssignTwo\ITAssignTwo\obj\Debug\netcoreapp1.1\ITAssignTwo.AssemblyInfo.cs
-c:\users\chris\documents\visual studio 2017\Projects\ITAssignTwo\ITAssignTwo\obj\Debug\netcoreapp1.1\ITAssignTwo.dll
-c:\users\chris\documents\visual studio 2017\Projects\ITAssignTwo\ITAssignTwo\obj\Debug\netcoreapp1.1\ITAssignTwo.pdb
+c:/users/chris/documents/visual studio 2017/Projects/ITAssignTwo/ITAssignTwo/bin/Debug/netcoreapp1.1/ITAssignTwo.deps.json
+c:/users/chris/documents/visual studio 2017/Projects/ITAssignTwo/ITAssignTwo/bin/Debug/netcoreapp1.1/ITAssignTwo.runtimeconfig.json
+c:/users/chris/documents/visual studio 2017/Projects/ITAssignTwo/ITAssignTwo/bin/Debug/netcoreapp1.1/ITAssignTwo.runtimeconfig.dev.json
+c:/users/chris/documents/visual studio 2017/Projects/ITAssignTwo/ITAssignTwo/bin/Debug/netcoreapp1.1/ITAssignTwo.dll
+c:/users/chris/documents/visual studio 2017/Projects/ITAssignTwo/ITAssignTwo/bin/Debug/netcoreapp1.1/ITAssignTwo.pdb
+c:/users/chris/documents/visual studio 2017/Projects/ITAssignTwo/ITAssignTwo/obj/Debug/netcoreapp1.1/ITAssignTwo.csprojResolveAssemblyReference.cache
+c:/users/chris/documents/visual studio 2017/Projects/ITAssignTwo/ITAssignTwo/obj/Debug/netcoreapp1.1/UserSecretsAssemblyInfo.cs
+c:/users/chris/documents/visual studio 2017/Projects/ITAssignTwo/ITAssignTwo/obj/Debug/netcoreapp1.1/ITAssignTwo.AssemblyInfo.cs
+c:/users/chris/documents/visual studio 2017/Projects/ITAssignTwo/ITAssignTwo/obj/Debug/netcoreapp1.1/ITAssignTwo.dll
+c:/users/chris/documents/visual studio 2017/Projects/ITAssignTwo/ITAssignTwo/obj/Debug/netcoreapp1.1/ITAssignTwo.pdb
+/Users/dzenitahasic/Projects/ITAssignTwo/ITAssignTwo/bin/Debug/netcoreapp1.1/ITAssignTwo.deps.json
+/Users/dzenitahasic/Projects/ITAssignTwo/ITAssignTwo/bin/Debug/netcoreapp1.1/ITAssignTwo.runtimeconfig.json
+/Users/dzenitahasic/Projects/ITAssignTwo/ITAssignTwo/bin/Debug/netcoreapp1.1/ITAssignTwo.runtimeconfig.dev.json
+/Users/dzenitahasic/Projects/ITAssignTwo/ITAssignTwo/bin/Debug/netcoreapp1.1/ITAssignTwo.dll
+/Users/dzenitahasic/Projects/ITAssignTwo/ITAssignTwo/bin/Debug/netcoreapp1.1/ITAssignTwo.pdb
+/Users/dzenitahasic/Projects/ITAssignTwo/ITAssignTwo/obj/Debug/netcoreapp1.1/ITAssignTwo.csprojResolveAssemblyReference.cache
+/Users/dzenitahasic/Projects/ITAssignTwo/ITAssignTwo/obj/Debug/netcoreapp1.1/ITAssignTwo.csproj.CoreCompileInputs.cache
+/Users/dzenitahasic/Projects/ITAssignTwo/ITAssignTwo/obj/Debug/netcoreapp1.1/UserSecretsAssemblyInfo.cs
+/Users/dzenitahasic/Projects/ITAssignTwo/ITAssignTwo/obj/Debug/netcoreapp1.1/ITAssignTwo.AssemblyInfo.cs
+/Users/dzenitahasic/Projects/ITAssignTwo/ITAssignTwo/obj/Debug/netcoreapp1.1/ITAssignTwo.dll
+/Users/dzenitahasic/Projects/ITAssignTwo/ITAssignTwo/obj/Debug/netcoreapp1.1/ITAssignTwo.pdb

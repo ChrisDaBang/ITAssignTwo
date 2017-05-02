@@ -23,9 +23,9 @@ namespace ITAssignTwo.Controllers
 
         public IActionResult Contact()
         {
-            ViewData["Message"] = "Your contact page.";
+            ContactModel model = new ContactModel();
 
-            return View();
+            return View(model);
         }
 
         public IActionResult Error()

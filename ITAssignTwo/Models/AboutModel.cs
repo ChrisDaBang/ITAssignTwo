@@ -1,4 +1,6 @@
-﻿using System;
+﻿using ITAssignTwo.Data;
+using Microsoft.EntityFrameworkCore;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
@@ -7,17 +9,22 @@ namespace ITAssignTwo.Models
 {
     public class AboutModel
     {
-        public string Title { get; }
-        public string Message { get; }
-        public string AdditionalInfo { get; }
+        public int ID { get; set; } // Needed for EntityFramework to work (Primary Key)
+        public string Title { get; set; }
+        public string Message { get; set; }
+        public string AdditionalInfo { get; set; }
 
-        public AboutModel()
+        public AboutModel() { } // Needed for EntityFramework to create the table
+        public AboutModel(ApplicationDbContext context)
         {
-            Title = "About Page";
-            Message = "Software Engineering";
-            AdditionalInfo = "Google, Skype, intelligent cars, online banking and apps for your smartphone " +
-                "are but a few examples of how software plays an increasingly more important role in our everyday lives. " +
-                "With a degree in Software Engineering you can help create new possibilities with the software of the future. ";
+            //Pull info from DB to here
+            AboutModel[] aboutArray = context.About.ToArray();
+            if (!aboutArray.Any()) return;
+            this.Title = aboutArray[0].Title;
+            this.Message = aboutArray[0].Message;
+            this.AdditionalInfo = aboutArray[0].AdditionalInfo;
+
+
         }
     }
 }

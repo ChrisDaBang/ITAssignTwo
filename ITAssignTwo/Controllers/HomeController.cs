@@ -35,7 +35,9 @@ namespace ITAssignTwo.Controllers
 
         public IActionResult Gallery()
         {
-            return View();
+            GalleryModel model = new GalleryModel(); 
+
+            return View(model);
         }
     }
 }

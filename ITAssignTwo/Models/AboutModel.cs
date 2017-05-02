@@ -14,16 +14,10 @@ namespace ITAssignTwo.Models
         public AboutModel()
         {
             Title = "About Page";
-            Message = "hello";
-            AdditionalInfo = "Google, Skype, intelligente biler, netbank og app’s til din smartphone er blot få eksempler på, " +
-                "hvordan software spiller en stadig større og vigtigere rolle i din og andres hverdag. " +
-                "Som civilingeniør i Software Engineering kan du blive en af dem, " +
-                "der skaber de nye muligheder med fremtidens software" +
-                "Som civilingeniør i Software Engineering arbejder du typisk inden for højteknologiske virksomheder" +
-                " eller institutioner, som beskæftiger sig med forskning og/eller udvikling. " +
-                "Civilingeniøren arbejder oftest inden for forskning, udvikling og innovation med gode muligheder for " +
-                "karriereudvikling. Ingeniørerne havde i marts 2015 en ledighed på 2,3 procent, " +
-                "og den vejledende startløn er 37.300,- for en civilingeniør. Læs mere om karrieremulighederne.";
+            Message = "Software Engineering";
+            AdditionalInfo = "Google, Skype, intelligent cars, online banking and apps for your smartphone " +
+                "are but a few examples of how software plays an increasingly more important role in our everyday lives. " +
+                "With a degree in Software Engineering you can help create new possibilities with the software of the future. ";
         }
     }
 }
